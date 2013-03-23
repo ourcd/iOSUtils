@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FTabBarViewController : UITabBarController
+@interface FTabBarController : UITabBarController
 
 @end

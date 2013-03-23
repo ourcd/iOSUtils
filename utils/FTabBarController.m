@@ -6,13 +6,13 @@
 //  Copyright (c) 2013 ccf. All rights reserved.
 //
 
-#import "FTabBarViewController.h"
+#import "FTabBarController.h"
 
-@interface FTabBarViewController ()
+@interface FTabBarController ()
 
 @end
 
-@implementation FTabBarViewController
+@implementation FTabBarController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
