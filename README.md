@@ -1,4 +1,3 @@
-iOSUtils
-========
+if you use this project as a submodule in you iOS project,you should add the above framework:
 
-some common utils which can be used as a submodule of iOS project 
+*SystemConfiguration.framework
