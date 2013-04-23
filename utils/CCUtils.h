@@ -10,13 +10,5 @@
 
 @interface CCUtils : NSObject
 
-/*
- check network status
- 
- created by ccf on 2013/04/10
-  
- @return YES(can access network),otherwise NO.
- */
-+ (BOOL)hasNetwork;
 
 @end
